@@ -1,0 +1,57 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# NodeJS
+node_modules/
+
+### STS ###
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# Eclipse
+.project
+.classpath
+.settings
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Maven
+target
+
+# Build
+out
+build
+bin
+
+# Other
+*.log
+*.swp
+*.bak
+/doc/
+log/
+db/
